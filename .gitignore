@@ -1,0 +1,8 @@
+# Credenciales locales del proyecto Blynk
+control_led_blynk_esp32/config.h
+
+# Archivos generados por editores y sistemas operativos
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
